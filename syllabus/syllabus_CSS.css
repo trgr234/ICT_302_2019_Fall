@@ -1,0 +1,25 @@
+body {
+	font-family: "Times New Roman"
+	color: black;
+}
+h1{
+	font-size: 2em;
+	text-align: center
+}
+h2{
+	font-size: 1.5em
+}
+
+table {
+	margin-left: 4pc;
+	margin-right: 4pc;
+	border: 1px;
+	}
+	
+td {
+	vertical-align: top;
+}
+
+li {
+	margin-left: 0pc;
+}
