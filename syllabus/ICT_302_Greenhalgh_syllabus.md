@@ -1,6 +1,8 @@
 # University of Kentucky School of Information Science
+
 # ICT 302: Content Management Systems (Fall 2019)
 <br>
+
 # Instructor Information
 
 ## Contact
