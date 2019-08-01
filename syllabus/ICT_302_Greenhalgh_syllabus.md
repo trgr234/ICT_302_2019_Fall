@@ -61,3 +61,46 @@ Over the course of the semester, however, you will be learning about a number of
 
 ## Assessment Overview
 
+Your final grade for this class is based on 100 points, which you will earn by completing the following assessments: 
+
+- **CMS Guidebook** (total of 60 points)
+	- Self-Evaluation (40 points)
+	- Colleague Evaluation (8 points)
+	- Dr. Greenhalgh Evaluation (6 points)
+	- Mid-Semester Class Contract (4 points)
+	- Revised Class Contract (2 points)
+- **Learning Journal**: (total of 32 points)
+	- two entries per week, each worth 1 point
+- "**Proofs of Concept**" (total of 8 points)
+	- Learning Journal Setup (2 points)
+	- Introductory Web Page (2 points)
+	- Hugo Website, Theme, and Report (2 points)
+	- Hugo versus WordPress Comparison (2 points)
+	
+## Assessment Submission Policies
+
+All assessments will be submitted through Canvas; however, the details of **what** will be submitted varies from assessment to assessment. This includes the possibility that you will need to submit multiple documents for a single assessment. Please pay close attention to the *Assessment Details* section so that you know what you need to submit for a particular submission. 
+
+Officially, assessments are due at 11:59pm on the date listed in the syllabus below. Practically speaking, however, I will grade without penalty any assessment that is turned in by the time I begin looking over that assessment. However, I will not grade or provide feedback on any work that is completed after this time unless you have made other arrangements with me. Naturally, because my schedule varies from week to week and because I try to provide feedback as quickly as possible, your best bet is to turn in your work by the official deadline or—if life has thrown you a curveball—to get in touch with me ahead of time to make other arrangements.
+
+## Assessment Details
+	
+### CMS Guidebook Assessments
+
+The majority of your points in this class will come from your work with your classmates to compose a CMS Guidebook where you will document key concepts, practical tips, and other information that you learn during the semester so that you can use it as a reference in future professional settings. Your work on the CMS Guidebook will be evaluated in the following ways:
+
+#### Mid-Semester Written Agreement (4 points, due 20 October 2019)
+
+By the midpoint of the semester, you and your classmates should have had enough time to decide how each member of the class will contribute to the book. You will create a Markdown file in the Written Agreements folder of Dr. Greenhalgh's class repository that describes your commitment to how you will contribute to the book and then link to this file in your Canvas submission. Your written agreement
+
+#### Revised Written Agreement (2 points, due 26 November 2019)
+
+#### Self-Evaluation (40 points; due 15 December 2019)
+
+#### Colleague Evaluation (8 points; due 15 December 2019)
+
+#### Dr. Greenhalgh Evaluation (6 points; completed after 15 December 2019)
+
+### Learning Journal Assessments 
+
+### "Proof of Concept" Assessments
