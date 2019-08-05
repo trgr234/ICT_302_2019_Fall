@@ -17,7 +17,7 @@
 
 ## Response Time
 
-During the week, I work to respond to all emails within 24 hours. I am slower to respond on weekends and may not get back to you until Monday. Please keep this in mind! I also ask that you check Canvas on a regular basis and that you respond to my messages within 48 hours. 
+During the week, I work to respond to all emails within 24 hours. I am slower to respond on weekends and may not get back to you until Monday. Please keep this in mind! I also ask that you check Canvas on a regular basis and that you respond to my messages within 48 hours.
 
 ## Meeting Schedule
 
@@ -61,7 +61,7 @@ Over the course of the semester, however, you will be learning about a number of
 
 ## Assessment Overview
 
-Your final grade for this class is based on 100 points, which you will earn by completing the following assessments: 
+Your final grade for this class is based on 100 points, which you will earn by completing the following assessments:
 
 - **CMS Guidebook** (total of 60 points)
 	- Self-Evaluation (40 points)
@@ -76,31 +76,35 @@ Your final grade for this class is based on 100 points, which you will earn by c
 	- Introductory Web Page (2 points)
 	- Hugo Website, Theme, and Report (2 points)
 	- Hugo versus WordPress Comparison (2 points)
-	
+
 ## Assessment Submission Policies
 
-All assessments will be submitted through Canvas; however, the details of **what** will be submitted varies from assessment to assessment. This includes the possibility that you will need to submit multiple documents for a single assessment. Please pay close attention to the *Assessment Details* section so that you know what you need to submit for a particular submission. 
+All assessments will be submitted through Canvas; however, the details of **what** will be submitted varies from assessment to assessment. This includes the possibility that you will need to submit multiple documents for a single assessment. Please pay close attention to the *Assessment Details* section so that you know what you need to submit for a particular submission.
 
 Officially, assessments are due at 11:59pm on the date listed in the syllabus below. Practically speaking, however, I will grade without penalty any assessment that is turned in by the time I begin looking over that assessment. However, I will not grade or provide feedback on any work that is completed after this time unless you have made other arrangements with me. Naturally, because my schedule varies from week to week and because I try to provide feedback as quickly as possible, your best bet is to turn in your work by the official deadline or—if life has thrown you a curveball—to get in touch with me ahead of time to make other arrangements.
 
 ## Assessment Details
-	
+
 ### CMS Guidebook Assessments
 
 The majority of your points in this class will come from your work with your classmates to compose a CMS Guidebook where you will document key concepts, practical tips, and other information that you learn during the semester so that you can use it as a reference in future professional settings. Your work on the CMS Guidebook will be evaluated in the following ways:
 
 #### Mid-Semester Written Agreement (4 points, due 20 October 2019)
 
-By the midpoint of the semester, you and your classmates should have had enough time to decide how each member of the class will contribute to the book. You will create a Markdown file in the Written Agreements folder of Dr. Greenhalgh's class repository that describes your commitment to how you will contribute to the book and then link to this file in your Canvas submission. Your written agreement
+By the midpoint of the semester, you and your classmates should have had enough time to decide how each member of the class will contribute to the book. You will copy [the Markdown template](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/CMS%20Guidebook%20Assessments/Written%20Agreements/written_agreement_template.md) in the [Written Agreements folder](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/CMS%20Guidebook%20Assessments/Written%20Agreements) of Dr. Greenhalgh's class repository and follow the prompts to describe your commitment to how you will contribute to the book; then, you will link to your file as a Canvas submission. You will be graded based on the guidelines listed in the template.
 
 #### Revised Written Agreement (2 points, due 26 November 2019)
 
+Expectations change over the course of the semester, so you will have a chance to revisit your written agreement to ensure that it accurately reflects your commitments to the course. You will make a pull request for your Written Agreement in the [Written Agreements folder](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/CMS%20Guidebook%20Assessments/Written%20Agreements) folder of Dr. Greenhalgh's class repository that 1) makes appropriate changes to your written agreement (or specifies that you are not making any changes) and 2) adds a justification for those changes to the bottom of your agreement. You will then link to your file as a Canvas submission. You will earn 1 point for making changes (or making it clear that you aren't making changes) and another point for providing an adequate justification for those changes.
+
 #### Self-Evaluation (40 points; due 15 December 2019)
+
+At the end of the semester, you will evaluate your own learning and performance in the class.
 
 #### Colleague Evaluation (8 points; due 15 December 2019)
 
 #### Dr. Greenhalgh Evaluation (6 points; completed after 15 December 2019)
 
-### Learning Journal Assessments 
+### Learning Journal Assessments
 
 ### "Proof of Concept" Assessments
