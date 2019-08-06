@@ -5,7 +5,7 @@
 
 # Course Objectives
 
-Throughout the semester, the following “I can” statements have served as guiding objectives for this course. Now that we're at the end of the semester, you should feel comfortable making each statement about yourself and be able to back up that statement with your performance on course activities and assessments.
+Throughout the semester, the following “I can” statements have served as guiding objectives for this course. Now that we're at the end of the semester, you should feel comfortable making each statement about yourself and be able to back up that statement with your performance on course activities and assessments. Because of the important role that the CMS Guidebook has played in our course, and because of the unstructured nature of this assignment, please concentrate in particular on your contributions to that project as you evaluate yourself according to course objectives.
 
 ## I can identify and define key concepts in (web) content management.
 

@@ -63,19 +63,20 @@ Over the course of the semester, however, you will be learning about a number of
 
 Your final grade for this class is based on 100 points, which you will earn by completing the following assessments:
 
-- **CMS Guidebook** (total of 60 points)
-	- Self-Evaluation (40 points)
+- **Self-Evaluation** (40 points)
+- **CMS Guidebook** (total of 20 points)
 	- Colleague Evaluation (8 points)
 	- Dr. Greenhalgh Evaluation (6 points)
-	- Mid-Semester Class Contract (4 points)
-	- Revised Class Contract (2 points)
-- **Learning Journal**: (total of 32 points)
-	- two entries per week, each worth 1 point
-- "**Proofs of Concept**" (total of 8 points)
+	- Mid-Semester Written Agreement (4 points)
+	- Revised Written Agreement (2 points)
+- **Learning Journal**: (total of 30 points)
+	- two entries every week (except Week 14), each entry worth 1 point
+- "**Proofs of Concept**" (total of 10 points)
 	- Learning Journal Setup (2 points)
 	- Introductory Web Page (2 points)
 	- Hugo Website, Theme, and Report (2 points)
-	- Hugo versus WordPress Comparison (2 points)
+	- Content Management System Comparison (2 points)
+	- Modeling, Aggregation, and Presentation Comparison (2 points)
 
 ## Assessment Submission Policies
 
@@ -85,9 +86,13 @@ Officially, assessments are due at 11:59pm on the date listed in the syllabus be
 
 ## Assessment Details
 
+### Self-Evaluation (40 points; due 15 December 2019)
+
+At the end of the semester, you will evaluate your own learning and performance in the class—including your contributions to the CMS Guidebook (see below). You will download [the Markdown template](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/self-evaluation_template.md) in the [assessments folder](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/) of my class repository, copy the template, and follow the prompts to evaluate your performance in the class. You will then upload the Markdown file to Canvas. In most cases, the grade you give yourself is the grade you will receive; however, if there are clear abuses of the privilege of self-assessment, I will adjust your grade to one that is more appropriate.
+
 ### CMS Guidebook Assessments
 
-The majority of your points in this class will come from your work with your classmates to compose a CMS Guidebook where you will document key concepts, practical tips, and other information that you learn during the semester so that you can use it as a reference in future professional settings. Your work on the CMS Guidebook will be evaluated in the following ways:
+Many of the points in this class will come from your work with your classmates to compose a CMS Guidebook where you will document key concepts, practical tips, and other information that you learn during the semester so that you can use it as a reference in future professional settings. Your work on the CMS Guidebook will be evaluated in the following ways:
 
 #### Mid-Semester Written Agreement (4 points, due 20 October 2019)
 
@@ -97,13 +102,13 @@ By the midpoint of the semester, you and your classmates should have had enough 
 
 Expectations change over the course of the semester, so you will have a chance to revisit your written agreement to ensure that it accurately reflects your commitments to the course. You will make a pull request for your Written Agreement in the [Written Agreements folder](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/CMS%20Guidebook%20Assessments/Written%20Agreements) folder of my class repository that 1) makes appropriate changes to your written agreement (or specifies that you are not making any changes) and 2) adds a justification for those changes to the bottom of your agreement. You will then link to your file as a Canvas submission. You will earn 1 point for making changes (or making it clear that you aren't making changes) and another point for providing an adequate justification for those changes.
 
-#### Self-Evaluation (40 points; due 15 December 2019)
-
-At the end of the semester, you will evaluate your own learning and performance in the class. You will copy [the Markdown template](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/CMS%20Guidebook%20Assessments/self-evaluation_template.md) in the [CMS Guidebook Assessments folder](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/CMS%20Guidebook%20Assessments) of my class repository and follow the prompts to evaluate your performance in the class. You will then upload the Markdown file to Canvas. In most cases, the grade you give yourself is the grade you will receive; however, if there are clear abuses of the privilege of self-assessment, I will adjust your grade to one that is more appropriate.
-
 #### Colleague Evaluation (8 points; due 15 December 2019)
 
+At the end of the semester, a colleague whom you have identified in your Written Agreement will evaluate your contributions to the CMS Guidebook, using the terms set out in your Written Agreement as a guide. They will download your Written Agreement from the [Written Agreements folder](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/CMS%20Guidebook%20Assessments/Written%20Agreements) and make a copy of the document. Under your comments in the **How Will It Be Evaluated?** section, they will give you a score out of eight, using specific evidence from your contributions to the CMS Guidebook and its workflows and specific passages from your Written Agreement to justify that score. They will then email me their evaluation (along with any other evaluations they are completing) at [spencer.greenhalgh@uky.edu](mailto:spencer.greenhalgh@uky.edu). In most cases, the grade they give you is the grade you will receive; however, if there are clear abuses of the important process of peer-assessment, I will adjust your grade to one that is more appropriate.
+
 #### Dr. Greenhalgh Evaluation (6 points; completed after 15 December 2019)
+
+Throughout the semester, I will use personal conversations and our class tools and technologies to provide feedback on the progress of the CMS Guidebook and suggest areas for improvement. At the end of the semester, I will give the CMS Guidebook a score out of six based on how well it reflects course concepts and responds to my feedback throughout the semester.
 
 ### Learning Journal Assessments
 

@@ -15,6 +15,6 @@
 
 > The colleague that you name below will be assessing your work throughout the semester with a total of eight points. Describe the standards that your colleague should use and the considerations they should make when deciding how many of those points you will earn.
 
-# Who Will Evalutae It?
+# Who Will Evaluate It?
 
 > Name a colleague in the class (not me!) whom you feel is in a good position to evaluate your work. Referencing your class organization and workflows, describe why you feel that colleague is best suited to evaluate your work at the end of the semester.
