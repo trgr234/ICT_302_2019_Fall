@@ -122,6 +122,12 @@ Throughout the semester, I will use personal conversations and our class tools a
 
 ### Learning Journal Assessments
 
+A large portion of your final grade comes from the learning journal that you will keep throughout the semester. Every week (except Week 14), you will push (at least) two new entries to the `learning_journal` Markdown file that you will create in your personal GitHub repository as part of your first Proof of Concept assessment. In each entry, you will describe in detail something that you have learned and that you want to remember, whether because it was really interesting, because you want to make sure it winds up in the CMS Guidebook, or because you think it will help you later in the course. What you learned can come from a class lecture, an exploration activity, a creation activity, an outside resource that you found, or anything else—so long as it is related to Content Management Systems.
+
+Your learning journal will be a wonderful resource for you if fully embraced. You can use it as a personal reference for after the class is over, as a "staging area" for concepts and ideas that you think should go into the CMS Guidebook, and as a chance to solidify your learning by explaining what you learn in your own words. There are no rules for how much or how little to write, and there are no standardized guidelines for formatting (except that you include a date for each new entry to make the separation between them clear)—please use this assignment as an opportunity to go above and beyond!
+
+That said, grading is (as always) a necessary bummer. Each week, you will submit a link to your up-to-date learning journal as a Canvas submission. Each entry will receive half a point simply for being completed and an additional half-point for being specific and detailed.
+
 ### "Proof of Concept" Assessments
 
 Most of the technical and conceptual skills that you pick up will be demonstrated in your self-evaluation, the CMS Guidebook, and your Learning Journal; however, there are some skills you should pick up in this class that don't fit nicely into those assessments. These "Proof of Concept" assessments will give you practical ways of demonstrating your understanding of these skills.
@@ -134,11 +140,17 @@ Create your own repository in GitHub, set it to private, and add me (username: [
 
 Use GitHub Pages to create a simple web page that introduces you to the rest of the class. Include a picture that says something about you (it doesn't need to be you if you're concerned about privacy), and share enough information that we can get to know you some (but remember that your GitHub Page will be public). Use at least two HTML elements and include at least two CSS stylings. Link to the page as a Canvas submission. You will receive 1 point for for creating a web page that includes a picture and an introduction, and 1 point for using at least two HTML elements and including at least two CSS stylings.
 
-#### Hugo Report (2 points; due 29 September 2019)
+#### Hugo Tinkering Report (2 points; due 29 September 2019)
+
+Copy [the Markdown template](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/Proofs%20of%20Concept/Hugo_Tinkering_Report_template.md) in the [Proofs of Concept](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/Proofs%20of%20Concept/) of my class repository and add it to your personal repository. Follow the prompts in the template to describe your experience tinkering with Hugo and how it helped you connect with the class concepts that we've discussed so far. Link to the page as a Canvas submission. You will be graded according to the guidelines in the template.
 
 #### Content Management System Comparison (2 points; due 20 October 2019)
 
+Using guidelines presented in class, identify and explore a content management system other than Hugo and WordPress. This exploration should be as detailed as possible, including setting up a free, trial, or local version of the CMS and tinkering with content and presentation. Then, copy [the Markdown template](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/Proofs%20of%20Concept/Content_Management_System_Comparison_template.md) in the [Proofs of Concept](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/Proofs%20of%20Concept/) of my class repository and add it to your personal repository. Follow the prompts in the template to compare Hugo, WordPress, and the CMS that you have chosen, using concepts and terms that we've discussed in class. Link to the page as a Canvas submission. You will be graded according to the guidelines in the template.
+
 #### Modeling, Aggregation, and Presentation Comparison (2 points; due 10 November 2019)
+
+Using guidelines presented in class, identify and explore three different websites that you believe use the same CMS. This exploration should be as detailed as possible, exploring as much content as you can. Then, copy [the Markdown template](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/Proofs%20of%20Concept/Modeling_Aggregation_Presentation_Comparison_template.md) in the [Proofs of Concept](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/Proofs%20of%20Concept/) of my class repository and add it to your personal repository. Follow the prompts in the template to compare the three websites that you have chosen, using concepts and terms that we've discussed in class. Link to the page as a Canvas submission. You will be graded according to the guidelines in the template.
 
 # Course Schedule
 
@@ -154,13 +166,13 @@ Use GitHub Pages to create a simple web page that introduces you to the rest of 
 - learn about markup languages
 - learn about [Markdown](https://daringfireball.net/projects/markdown/)
 - set up personal ICT 302 repository
-- discuss *Learning Journal Setup Proof of Concept*
+- introduce *Learning Journal Setup* Proof of Concept
 
 ### Friday, 30 August (Create):
 - **Last Day to Add**
 - review ICT 302 syllabus
 - clone ICT 302 syllabus in GitHub Desktop
-- use `issues` and `pull requests` to ask questions or suggest changes to the ICT 302 syllabus
+- use `issues` and `pull requests` to ask questions about or suggest changes to the ICT 302 syllabus
 
 
 ### Sunday, 1 September (Submit):
@@ -179,11 +191,11 @@ Use GitHub Pages to create a simple web page that introduces you to the rest of 
 - learn about [GitHub Pages](https://pages.github.com/)
 - learn about HTML
 - learn about CSS
-- introduce *Introductory Web Page Proof of Concept*
+- introduce *Introductory Web Page* Proof of Concept
 
 
 ### Friday, 6 September (Create):
-- work on *Introductory Web Page Proof of Concept*
+- work on *Introductory Web Page* Proof of Concept
 
 ### Sunday, 8 September (Submit):
 
@@ -227,30 +239,32 @@ Use GitHub Pages to create a simple web page that introduces you to the rest of 
 ## Week 4: Content Management Systems
 
 ### Monday, 16 September (Learn):
-- *before class*, read [In the Shadow of the CMS](https://www.thenation.com/article/content-management-system-essay-wordpress-drupal-internet-feature/)
+- **before class**, read [In the Shadow of the CMS](https://www.thenation.com/article/content-management-system-essay-wordpress-drupal-internet-feature/)
 - attend lecture on Content Management Systems
 
 ### Wednesday, 18 September (Explore):
 - learn about [Hugo](https://gohugo.io/)
-- learn about [Netlify](https://www.netlify.com/)
-- introduce *Hugo Report Proof of Concept*
+- introduce *Hugo Report* Proof of Concept
+- join [ICT_302_Hugo](https://github.com/greenhas/ICT_302_Hugo) repository as a contributor
+- explore modifying content on [class Hugo website](https://unruffled-kepler-b32175.netlify.com/)
 
 ### Friday, 20 September (Create):
-- set up personal Hugo website
-- use class Hugo website to start laying out the book
+- use [class Hugo website](https://unruffled-kepler-b32175.netlify.com/) to start laying out the **content** of the *CMS Guidebook*
 
 ### Sunday, 22 September (Submit):
-
 - submit Learning Journal entries
 
 ## Week 5: Presentation of Content
 
 ### Monday, 23 September (Learn):
-
+- **before class**, read the [Presentation](https://flyingsquirrelbook.com/glossary/term/presentation/) entry in the Flying Squirrel CMS Glossary
+- attend lecture on content vs. presentation
 
 ### Wednesday, 25 September (Explore):
+- explore modifying presentation on [class Hugo website](https://unruffled-kepler-b32175.netlify.com/)
 
 ### Friday, 27 September (Create):
+- use [class Hugo website](https://unruffled-kepler-b32175.netlify.com/) to start laying out the **content** and **presentation** of the *CMS Guidebook*
 
 ### Sunday, 29 September (Submit):
 
@@ -260,37 +274,55 @@ Use GitHub Pages to create a simple web page that introduces you to the rest of 
 ## Week 6: WordPress
 
 ### Monday, 30 September (Learn):
-- before class:
-- during class:
+- **before class**, read the [Introduction](https://easywpguide.com/wordpress-manual/introduction/) to the EasyWPGuide and visit the examples they link to
+- **before class**, watch the [How to Start a Blog in 2019 (Step by Step)](https://www.youtube.com/watch?time_continue=5&v=hCxIyl3vkLU) from [wpbeginner](https://www.wpbeginner.com)
+- attend lecture about WordPress
+
 ### Wednesday, 2 October (Explore):
+- explore [class WordPress website](https://sised.is.uky.edu/ict302wp/)
+- set up accounts on [class WordPress website](https://sised.is.uky.edu/ict302wp/)
+- discuss account roles for [class WordPress website](https://sised.is.uky.edu/ict302wp/)
 
 ### Friday, 4 October (Create):
+- migrate CMS Guidebook content from [class Hugo website](https://unruffled-kepler-b32175.netlify.com/) to [class WordPress website](https://sised.is.uky.edu/ict302wp/)
+- develop class workflows for *CMS Guidebook*
 
 ### Sunday, 6 October (Submit):
-
 - submit Learning Journal entries
 
 ## Week 7: Features of Content Management Systems
 
 ### Monday, 7 October (Learn):
-- before class:
-- during class:
+- **before class**, read the [Feature Analysis](https://flyingsquirrelbook.com/chapters/05-feature-analysis/) chapter summary on the Flying Squirrel website.
+- **before class**, read [WordPress Features](https://wordpress.org/support/article/wordpress-features/) on the WordPress website
+- **before class**, read [Hugo Features](https://gohugo.io/about/features/) on the Hugo website
+- attend lecture on comparing Content Management Systems
+- introduce *Content Management System Comparison* Proof of Concept
+
 ### Wednesday, 9 October (Explore):
+- attend presentation by local WordPress professional
+- learn about local WordPress resources
 
 ### Friday, 11 October (Create):
+- continue work on *CMS Guidebook*
+- develop class workflows for *CMS Guidebook*
+- work on *Content Management System Comparison* Proof of Concept
 
 ### Sunday, 13 October (Submit):
-
 - submit Learning Journal entries
 
 ## Week 8: Other Content Management Systems
 
 ### Monday, 14 October (Learn):
-- before class:
-- during class:
+- attend lecture on other Content Management Systems
+
 ### Wednesday, 16 October (Explore):
+- explore other Content Management Systems
 
 ### Friday, 18 October (Create):
+- continue work on *CMS Guidebook*
+- finalize class workflows for *CMS Guidebook*
+- work on *Content Management System Comparison* Proof of Concept
 
 ### Sunday, 20 October (Submit):
 
@@ -301,25 +333,23 @@ Use GitHub Pages to create a simple web page that introduces you to the rest of 
 ## Week 9: Guest Lectures
 
 ### Monday, 21 October (Learn):
-- before class:
-- during class:
+- **Academic Holiday: No Class**
 ### Wednesday, 23 October (Explore):
-
+- **Guest Lecture (Dr. Greenhalgh Out of Town)**
 ### Friday, 25 October (Create):
-
+- **Guest Lecture (Dr. Greenhalgh Out of Town)**
 ### Sunday, 27 October (Submit):
-
 - submit Learning Journal entries
 
 ## Week 10: Content Modeling
 
 ### Monday, 28 October (Learn):
-- before class:
-- during class:
+- **before class**, read the [Content Model](https://flyingsquirrelbook.com/glossary/term/content-model/) entry in the Flying Squirrel CMS Glossary
+- attend lecture on content modeling
 ### Wednesday, 30 October (Explore):
-
+- explore WordPress templates
 ### Friday, 1 November (Create):
-
+- work on CMS Guidebook
 ### Sunday, 3 November (Submit):
 
 - submit Learning Journal entries
@@ -327,15 +357,15 @@ Use GitHub Pages to create a simple web page that introduces you to the rest of 
 ## Week 11: Content Aggregation
 
 ### Monday, 4 November (Learn):
-- before class:
-- during class:
+- attend lecture on content aggregation
 ### Tuesday, 5 November (Vote):
-
 - If you are eligible to vote in Kentucky, please make sure to participate in state elections today!
 
 ### Wednesday, 6 November (Explore):
+- explore categories, tags, menus in WordPress
 
 ### Friday, 8 November (Create):
+- work on CMS Guidebook
 
 ### Sunday, 10 November (Submit):
 
@@ -345,25 +375,23 @@ Use GitHub Pages to create a simple web page that introduces you to the rest of 
 ## Week 12: Extending Content Management Systems
 
 ### Monday, 11 November (Learn):
-- before class:
-- during class:
+- attend lecture on extending Content Management Systems
 ### Wednesday, 13 November (Explore):
-
+- explore WordPress plugins
+- find a plugin (or other solution) for producing a PDF version of the CMS Guidebook
 ### Friday, 15 November (Create):
-
+- work on CMS Guidebook
 ### Sunday, 17 November (Submit):
-
 - submit Learning Journal entries
 
 ## Week 13: eCommerce and Content Management Systems
 
 ### Monday, 18 November (Learn):
-- before class:
-- during class:
+- attend lecture on eCommerce with Content Management Systems
 ### Wednesday, 20 November (Explore):
-
+- explore eCommerce plugins for the [class WordPress website](https://sised.is.uky.edu/ict302wp/)
 ### Friday, 22 November (Create):
-
+- work on CMS Guidebook
 ### Sunday, 24 November (Submit):
 
 - submit Learning Journal entries
@@ -371,12 +399,11 @@ Use GitHub Pages to create a simple web page that introduces you to the rest of 
 ## Week 14: Check-In
 
 ### Monday, 25 November (Learn):
-- before class:
-- during class:
+- discuss and revise Written Agreements
 ### Wednesday, 27 November (Explore):
-
+- **Academic Holiday: No Class**
 ### Friday, 29 November (Create):
-
+- **Academic Holiday: No Class**
 ### Sunday, 1 December (Submit):
 
 - submit Revised Written Agreement
@@ -384,12 +411,11 @@ Use GitHub Pages to create a simple web page that introduces you to the rest of 
 ## Week 15: Multichannel Distribution of Content
 
 ### Monday, 2 December (Learn):
-- before class:
-- during class:
+- learn about multichannel content distribution
 ### Wednesday, 4 December (Explore):
-
+- explore RSS, comments, and social media on WordPress
 ### Friday, 6 December (Create):
-
+- work on CMS Guidebook
 ### Sunday, 8 December (Submit):
 
 - submit Learning Journal entries

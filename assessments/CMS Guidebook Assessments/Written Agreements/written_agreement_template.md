@@ -9,7 +9,7 @@
 
 # When Is It Being Done?
 
-> Use this section to describe when you will begin each of your commitments, when you will complete each of them by, and (if appropriate), how much time  you expect to spend on each of them.
+> Use this section to describe when you will begin each of your commitments, when you will complete each of them by, and (if appropriate), how much time you expect to spend on each of them.
 
 # How Will It Be Evaluated?
 
