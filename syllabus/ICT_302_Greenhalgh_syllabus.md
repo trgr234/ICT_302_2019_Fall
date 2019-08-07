@@ -1,7 +1,6 @@
-# University of Kentucky School of Information Science
-
 # ICT 302: Content Management Systems (Fall 2019)
-<br>
+
+This syllabus may be updated prior to and throughout the semester by Dr. Greenhalgh and ICT 302 students. Please use [this link](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/syllabus/ICT_302_Greenhalgh_syllabus.md) if you want to make sure you have the most up-to-date version.
 
 # Instructor Information
 
@@ -17,11 +16,11 @@
 
 ## Response Time
 
-During the week, I work to respond to all emails within 24 hours. I am slower to respond on weekends and may not get back to you until Monday. Please keep this in mind! I also ask that you check Canvas on a regular basis and that you respond to my messages within 48 hours.
+During the week, I work to respond to all emails within 24 hours. I am slower to respond on weekends and may not get back to you until Monday. Please keep this in mind when preparing to turn in assignments! I also ask that you check Canvas on a regular basis and that you respond to my messages within 48 hours.
 
 ## Meeting Schedule
 
-This course meets on Mondays, Wednesdays, and Fridays from 3:00pm to 3:50pm in 301 Lucille Little Library Bldg.
+This course meets on Mondays, Wednesdays, and Fridays from 3:00pm to 3:50pm in 301 Lucille Little Library Bldg. Academic holidays are noted in the course schedule below.
 
 ## Office Hours
 
@@ -59,6 +58,15 @@ Over the course of the semester, however, you will be learning about a number of
 
 # Course Assessments
 
+## Assessment Scale
+- A: 90 - 100
+- B: 80 - 89.99
+- C: 70 - 79.99
+- D: 60 - 69.99
+- E: 0 - 59.99
+
+I do not "round up" grades at the end of the semester. I know that can be frustrating for someone who is "almost there," but all rounding really does is move the "almost there" zone down by half a point, potentially creating another group of students who are frustrated that they just barely missed the mark. If you are concerned about potentially being right on the edge of a grading category at the end of the semester, the best thing to do is to talk to me about your concerns as early as possible (and certainly not after the fact) so that we can make sure that you wind up where you want to be!
+
 ## Assessment Overview
 
 Your final grade for this class is based on 100 points, which you will earn by completing the following assessments:
@@ -74,9 +82,11 @@ Your final grade for this class is based on 100 points, which you will earn by c
 - "**Proofs of Concept**" (total of 10 points)
 	- Learning Journal Setup (2 points)
 	- Introductory Web Page (2 points)
-	- Hugo Website, Theme, and Report (2 points)
+	- Hugo Report (2 points)
 	- Content Management System Comparison (2 points)
 	- Modeling, Aggregation, and Presentation Comparison (2 points)
+
+
 
 ## Assessment Submission Policies
 
@@ -88,7 +98,7 @@ Officially, assessments are due at 11:59pm on the date listed in the syllabus be
 
 ### Self-Evaluation (40 points; due 15 December 2019)
 
-At the end of the semester, you will evaluate your own learning and performance in the class—including your contributions to the CMS Guidebook (see below). You will download [the Markdown template](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/self-evaluation_template.md) in the [assessments folder](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/) of my class repository, copy the template, and follow the prompts to evaluate your performance in the class. You will then upload the Markdown file to Canvas. In most cases, the grade you give yourself is the grade you will receive; however, if there are clear abuses of the privilege of self-assessment, I will adjust your grade to one that is more appropriate.
+At the end of the semester, you will evaluate your own learning and performance in the class—including your contributions to the CMS Guidebook (see below). You will download [the Markdown template](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/self-evaluation_template.md) in the [assessments folder](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/) of my class repository, copy the template, and follow the prompts to evaluate your performance in the class. You will then add the Markdown file to your personal GitHub repository and link to the file as a Canvas submission. In most cases, the grade you give yourself is the grade you will receive; however, if there are clear abuses of the privilege of self-assessment, I will adjust your grade to one that is more appropriate.
 
 ### CMS Guidebook Assessments
 
@@ -96,20 +106,309 @@ Many of the points in this class will come from your work with your classmates t
 
 #### Mid-Semester Written Agreement (4 points, due 20 October 2019)
 
-By the midpoint of the semester, you and your classmates should have had enough time to decide how each member of the class will contribute to the book. You will copy [the Markdown template](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/CMS%20Guidebook%20Assessments/Written%20Agreements/written_agreement_template.md) in the [Written Agreements folder](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/CMS%20Guidebook%20Assessments/Written%20Agreements) of my class repository and follow the prompts to describe your commitment to how you will contribute to the book. You will then make a pull request that adds the copied and modified template to the Written Agreements folder. Then, you will link to your file as a Canvas submission. You will be graded based on the guidelines listed in the template.
+By the midpoint of the semester, you and your classmates should have had enough time to decide how each member of the class will contribute to the book. You will copy [the Markdown template](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/CMS%20Guidebook%20Assessments/Written%20Agreements/written_agreement_template.md) in the [Written Agreements folder](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/CMS%20Guidebook%20Assessments/Written%20Agreements) of my class repository and follow the prompts to describe your commitment to how you will contribute to the book. You will then make a pull request that adds the copied and modified template to my Written Agreements folder. Then, you will link to your file as a Canvas submission. You will be graded based on the guidelines listed in the template.
 
-#### Revised Written Agreement (2 points, due 26 November 2019)
+#### Revised Written Agreement (2 points, due 1 December 2019)
 
 Expectations change over the course of the semester, so you will have a chance to revisit your written agreement to ensure that it accurately reflects your commitments to the course. You will make a pull request for your Written Agreement in the [Written Agreements folder](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/CMS%20Guidebook%20Assessments/Written%20Agreements) folder of my class repository that 1) makes appropriate changes to your written agreement (or specifies that you are not making any changes) and 2) adds a justification for those changes to the bottom of your agreement. You will then link to your file as a Canvas submission. You will earn 1 point for making changes (or making it clear that you aren't making changes) and another point for providing an adequate justification for those changes.
 
 #### Colleague Evaluation (8 points; due 15 December 2019)
 
-At the end of the semester, a colleague whom you have identified in your Written Agreement will evaluate your contributions to the CMS Guidebook, using the terms set out in your Written Agreement as a guide. They will download your Written Agreement from the [Written Agreements folder](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/CMS%20Guidebook%20Assessments/Written%20Agreements) and make a copy of the document. Under your comments in the **How Will It Be Evaluated?** section, they will give you a score out of eight, using specific evidence from your contributions to the CMS Guidebook and its workflows and specific passages from your Written Agreement to justify that score. They will then email me their evaluation (along with any other evaluations they are completing) at [spencer.greenhalgh@uky.edu](mailto:spencer.greenhalgh@uky.edu). In most cases, the grade they give you is the grade you will receive; however, if there are clear abuses of the important process of peer-assessment, I will adjust your grade to one that is more appropriate.
+At the end of the semester, a colleague whom you have identified in your Written Agreement will evaluate your contributions to the CMS Guidebook, using the terms set out in your Written Agreement as a guide. They will download your Written Agreement from the [Written Agreements folder](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/CMS%20Guidebook%20Assessments/Written%20Agreements) and make a copy of the document. Under your comments in the **How Will It Be Evaluated?** section, they will give you a score out of eight, using specific evidence from your contributions to the CMS Guidebook and its workflows and specific passages from your Written Agreement to justify that score. They will add that file to their personal GitHub repository and email me a link to the file (and any other evaluations) at [spencer.greenhalgh@uky.edu](mailto:spencer.greenhalgh@uky.edu). In most cases, the grade they give you is the grade you will receive; however, if there are clear abuses of the important process of peer-assessment, I will adjust your grade to one that is more appropriate.
 
 #### Dr. Greenhalgh Evaluation (6 points; completed after 15 December 2019)
 
-Throughout the semester, I will use personal conversations and our class tools and technologies to provide feedback on the progress of the CMS Guidebook and suggest areas for improvement. At the end of the semester, I will give the CMS Guidebook a score out of six based on how well it reflects course concepts and responds to my feedback throughout the semester.
+Throughout the semester, I will use personal conversations and our class tools and technologies to provide feedback on the progress of the CMS Guidebook and suggest areas for improvement. At the end of the semester, I will give the CMS Guidebook a score out of six based on how well it reflects course concepts and responds to my feedback throughout the semester. **This same score will be entered for everyone in the class.**
 
 ### Learning Journal Assessments
 
 ### "Proof of Concept" Assessments
+
+Most of the technical and conceptual skills that you pick up will be demonstrated in your self-evaluation, the CMS Guidebook, and your Learning Journal; however, there are some skills you should pick up in this class that don't fit nicely into those assessments. These "Proof of Concept" assessments will give you practical ways of demonstrating your understanding of these skills.
+
+#### Learning Journal Setup (2 points; due 1 September 2019)
+
+Create your own repository in GitHub, set it to private, and add me (username: [greenhas](https://github.com/greenhas)) as a collaborator. Create a Markdown file in your repository that is titled `learning_journal` and that includes an introduction and your first two entries, you will then link to the file as a Canvas submission. You may organize your learning journal however you like, but you must use at least two different kinds of Markdown element. You will receive 1 point for creating the repository, setting it to private, and adding me as a collaborator. You will receive another point for writing an introduction to your learning journal and using at least two different kinds of Markdown elements in your journal.
+
+#### Introductory Web Page (2 points; due 8 September 2019)
+
+Use GitHub Pages to create a simple web page that introduces you to the rest of the class. Include a picture that says something about you (it doesn't need to be you if you're concerned about privacy), and share enough information that we can get to know you some (but remember that your GitHub Page will be public). Use at least two HTML elements and include at least two CSS stylings. Link to the page as a Canvas submission. You will receive 1 point for for creating a web page that includes a picture and an introduction, and 1 point for using at least two HTML elements and including at least two CSS stylings.
+
+#### Hugo Report (2 points; due 29 September 2019)
+
+#### Content Management System Comparison (2 points; due 20 October 2019)
+
+#### Modeling, Aggregation, and Presentation Comparison (2 points; due 10 November 2019)
+
+# Course Schedule
+
+## Week 1: Introduction to ICT 302
+
+### Monday, 26 August (Learn)
+- attend lecture on ICT 302 course philosophy
+
+### Wednesday, 28 August (Explore)
+- learn about [GitHub](https://github.com/)
+- set up [GitHub Desktop](https://desktop.github.com/)
+- learn about [Atom text editor](https://atom.io/)
+- learn about markup languages
+- learn about [Markdown](https://daringfireball.net/projects/markdown/)
+- set up personal ICT 302 repository
+- discuss *Learning Journal Setup Proof of Concept*
+
+### Friday, 30 August (Create):
+- **Last Day to Add**
+- review ICT 302 syllabus
+- clone ICT 302 syllabus in GitHub Desktop
+- use `issues` and `pull requests` to ask questions or suggest changes to the ICT 302 syllabus
+
+
+### Sunday, 1 September (Submit):
+
+- submit Learning Journal Setup Proof of Concept
+- submit Learning Journal entries
+
+## Week 2: Content
+
+### Monday, 2 September (Learn):
+- **Academic Holiday: No Class**
+### Wednesday, 4 September (Explore):
+- **before class**, read the [Content](https://flyingsquirrelbook.com/glossary/term/content/) entry in the Flying Squirrel CMS Glossary.
+- **before class**, read the [Content (media)](https://en.wikipedia.org/wiki/Content_(media)) entry on Wikipedia.
+- attend lecture on content
+- learn about [GitHub Pages](https://pages.github.com/)
+- learn about HTML
+- learn about CSS
+- introduce *Introductory Web Page Proof of Concept*
+
+
+### Friday, 6 September (Create):
+- work on *Introductory Web Page Proof of Concept*
+
+### Sunday, 8 September (Submit):
+
+- submit Introductory Web Page Proof of Concept
+- submit Learning Journal entries
+
+## Week 3: Content Management
+
+### Monday, 9 September (Learn):
+- **before class**, read the [Content Management](https://flyingsquirrelbook.com/glossary/term/content-management/) entry in the Flying Squirrel CMS Glossary.
+- **before class**, read the [Workflow](https://flyingsquirrelbook.com/glossary/term/workflow/) entry in the Flying Squirrel CMS Glossary.
+- attend lecture on content management
+- attend lecture on teams and workflows
+- attend lecture on external integrators
+
+### Wednesday, 11 September (Explore):
+- workflow-focused speed introductions
+- learn about [Slack](https://slack.com/)
+- join ICT 302 Slack workspace
+- learn about [Trello](https://trello.com)
+- join ICT 302 Trello board
+- learn about [Toggl](https://toggl.com)
+- join ICT 302 Toggl group
+
+### Friday, 13 September (Create):
+- **Last Day to Drop**
+- introduce *CMS Guidebook*
+- discuss audience
+- discuss intellectual property and plagiarism
+- introduce *Mid-Semester Written Agreement*
+- introduce *Revised Written Agreement*
+- introduce *Colleague Evaluation*
+- introduce *Dr. Greenhalgh Evaluation*
+- start organizing class into a content management team
+- start organizing class workflows
+
+### Sunday, 15 September (Submit):
+
+- submit Learning Journal entries
+
+## Week 4: Content Management Systems
+
+### Monday, 16 September (Learn):
+- *before class*, read [In the Shadow of the CMS](https://www.thenation.com/article/content-management-system-essay-wordpress-drupal-internet-feature/)
+- attend lecture on Content Management Systems
+
+### Wednesday, 18 September (Explore):
+- learn about [Hugo](https://gohugo.io/)
+- learn about [Netlify](https://www.netlify.com/)
+- introduce *Hugo Report Proof of Concept*
+
+### Friday, 20 September (Create):
+- set up personal Hugo website
+- use class Hugo website to start laying out the book
+
+### Sunday, 22 September (Submit):
+
+- submit Learning Journal entries
+
+## Week 5: Presentation of Content
+
+### Monday, 23 September (Learn):
+
+
+### Wednesday, 25 September (Explore):
+
+### Friday, 27 September (Create):
+
+### Sunday, 29 September (Submit):
+
+- submit Hugo Report Proof of Concept
+- submit Learning Journal entries
+
+## Week 6: WordPress
+
+### Monday, 30 September (Learn):
+- before class:
+- during class:
+### Wednesday, 2 October (Explore):
+
+### Friday, 4 October (Create):
+
+### Sunday, 6 October (Submit):
+
+- submit Learning Journal entries
+
+## Week 7: Features of Content Management Systems
+
+### Monday, 7 October (Learn):
+- before class:
+- during class:
+### Wednesday, 9 October (Explore):
+
+### Friday, 11 October (Create):
+
+### Sunday, 13 October (Submit):
+
+- submit Learning Journal entries
+
+## Week 8: Other Content Management Systems
+
+### Monday, 14 October (Learn):
+- before class:
+- during class:
+### Wednesday, 16 October (Explore):
+
+### Friday, 18 October (Create):
+
+### Sunday, 20 October (Submit):
+
+- submit Learning Journal entries
+- submit Mid-Semester Written Agreement
+- submit Content Management System Comparison Proof of Concept
+
+## Week 9: Guest Lectures
+
+### Monday, 21 October (Learn):
+- before class:
+- during class:
+### Wednesday, 23 October (Explore):
+
+### Friday, 25 October (Create):
+
+### Sunday, 27 October (Submit):
+
+- submit Learning Journal entries
+
+## Week 10: Content Modeling
+
+### Monday, 28 October (Learn):
+- before class:
+- during class:
+### Wednesday, 30 October (Explore):
+
+### Friday, 1 November (Create):
+
+### Sunday, 3 November (Submit):
+
+- submit Learning Journal entries
+
+## Week 11: Content Aggregation
+
+### Monday, 4 November (Learn):
+- before class:
+- during class:
+### Tuesday, 5 November (Vote):
+
+- If you are eligible to vote in Kentucky, please make sure to participate in state elections today!
+
+### Wednesday, 6 November (Explore):
+
+### Friday, 8 November (Create):
+
+### Sunday, 10 November (Submit):
+
+- submit Modeling, Aggregation, and Presentation Proof of Concept
+- submit Learning Journal entries
+
+## Week 12: Extending Content Management Systems
+
+### Monday, 11 November (Learn):
+- before class:
+- during class:
+### Wednesday, 13 November (Explore):
+
+### Friday, 15 November (Create):
+
+### Sunday, 17 November (Submit):
+
+- submit Learning Journal entries
+
+## Week 13: eCommerce and Content Management Systems
+
+### Monday, 18 November (Learn):
+- before class:
+- during class:
+### Wednesday, 20 November (Explore):
+
+### Friday, 22 November (Create):
+
+### Sunday, 24 November (Submit):
+
+- submit Learning Journal entries
+
+## Week 14: Check-In
+
+### Monday, 25 November (Learn):
+- before class:
+- during class:
+### Wednesday, 27 November (Explore):
+
+### Friday, 29 November (Create):
+
+### Sunday, 1 December (Submit):
+
+- submit Revised Written Agreement
+
+## Week 15: Multichannel Distribution of Content
+
+### Monday, 2 December (Learn):
+- before class:
+- during class:
+### Wednesday, 4 December (Explore):
+
+### Friday, 6 December (Create):
+
+### Sunday, 8 December (Submit):
+
+- submit Learning Journal entries
+
+## Week 16: Work Week
+
+### Monday, 9 December:
+- work on the CMS Guidebook
+### Wednesday, 11 December (Explore):
+- work on the CMS Guidebook
+### Friday, 13 December (Create):
+- **Deleting Day**
+- complete CMS Guidebook
+
+### Sunday, 15 December (Submit):
+- submit Learning Journal entries
+- submit Self-Evaluation
+- submit Colleague Evaluation(s)
+
+## Finals Week (16 December - 20 December):
+
+Focus on your other classes! Go to commencement! Pack your bags! Dr. Greenhalgh will spend this week completing his evaluation of the CMS Guidebook and reviewing your other assessments, but you're all set!

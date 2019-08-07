@@ -10,12 +10,20 @@ h2{
 	font-size: 1.5em
 }
 
+h3{
+	margin-left: 1pc
+}
+
+h4{
+	margin-left: 2pc
+}
+
 table {
 	margin-left: 4pc;
 	margin-right: 4pc;
 	border: 1px;
 	}
-	
+
 td {
 	vertical-align: top;
 }
