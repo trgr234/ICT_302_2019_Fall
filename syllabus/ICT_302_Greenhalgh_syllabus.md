@@ -1,6 +1,6 @@
-# ICT 302: Content Management Systems (Fall 2019)
+# [UK SIS](http://ci.uky.edu/sis/) ICT 302: Content Management Systems (Fall 2019)
 
-This syllabus may be updated prior to and throughout the semester by Dr. Greenhalgh and ICT 302 students. Please use [this link](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/syllabus/ICT_302_Greenhalgh_syllabus.md) if you want to make sure you have the most up-to-date version.
+This syllabus may be updated prior to and throughout the semester by Dr. Greenhalgh and ICT 302 students. Please use [this link](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/syllabus/ICT_302_Greenhalgh_syllabus.md) to access the most up-to-date version.
 
 # Instructor Information
 
@@ -16,11 +16,7 @@ This syllabus may be updated prior to and throughout the semester by Dr. Greenha
 
 ## Response Time
 
-During the week, I work to respond to all emails within 24 hours. I am slower to respond on weekends and may not get back to you until Monday. Please keep this in mind when preparing to turn in assignments! I also ask that you check Canvas on a regular basis and that you respond to my messages within 48 hours.
-
-## Meeting Schedule
-
-This course meets on Mondays, Wednesdays, and Fridays from 3:00pm to 3:50pm in 301 Lucille Little Library Bldg. Academic holidays are noted in the course schedule below.
+From Monday to Friday, I work to respond to all emails (and Slack messages, GitHub pull requests, etc.) within 24 hours. I am slower to respond on weekends and may not get back to you until Monday. Most of your assessments are due on Sundays, so please keep this in mind! In return, I ask that you check Canvas, Slack, and other class platforms on a regular basis and that you respond to my messages within 48 hours.
 
 ## Office Hours
 
@@ -30,7 +26,50 @@ In my office or on Zoom:
 - Tuesday, 1pm to 3pm
 - by appointment
 
+# Student Support
+
+## Statement on Basic Needs Security and Course Performance
+Any student who has difficulty affording or accessing food to eat every day or who lacks a safe and stable place to live and believes this may affect their performance in the course is urged to [contact the Dean of Students](http://www.uky.edu/concern/) and to explore the resources listed at the bottom of [this page](https://uknow.uky.edu/campus-news/uk-working-ensure-food-and-housing-security-among-students). Furthermore, please notify me if you are comfortable in doing so.
+
+(Thank you to [Dr. Sara Goldrick-Rab](http://saragoldrickrab.com/), whose [blog post](https://medium.com/@saragoldrickrab/basic-needs-security-and-the-syllabus-d24cc7afe8c9) inspired my adoption of this statement.)
+
+## Accommodations Due to Disability
+If you have a documented disability that requires academic accommodations, please see me as soon as possible during scheduled office hours. In order to receive accommodations in this course, you must provide me with a Letter of Accommodation from the Disability Resource Center (DRC). The DRC coordinates campus disability services available to students with disabilities. Visit the [DRC website](http://www.uky.edu/DisabilityResourceCenter), [email the DRC](mailto:drc@uky.edu), contact them by phone at (859) 257-2754, or visit their office on the corner of Rose Street and Huguelet Drive in the Multidisciplinary Science Building, Suite 407.
+
+## Non-Discrimination Statement and Title IX Information
+UK is committed to providing a safe learning, living, and working environment for all members of the University community. The University maintains a comprehensive program which protects all members from discrimination, harassment, and sexual misconduct. For complete information about UK’s prohibition on discrimination and harassment on aspects such as race, color, ethnic origin, national origin, creed, religion, political belief, sex, and sexual orientation, please see [the electronic version of UK’s Administrative Regulation 6:1 (“Policy on Discrimination and Harassment”)](https://www.uky.edu/regs/sites/www.uky.edu.regs/files/files/ar/ar6-1.pdf) . In accordance with Title IX of the Education Amendments of 1972, the University prohibits discrimination and harassment on the basis of sex in academics, employment, and all of its programs and activities. Sexual misconduct is a form of sexual harassment in which one act is severe enough to create a hostile environment based on sex and is prohibited between members of the University community and shall not be tolerated. For more details, please see [the electronic version of Administrative Regulations 6:2 (“Policy and Procedures for Addressing and Resolving Allegations of Sexual Assault, Stalking, Dating Violence, Domestic Violence, and Sexual Exploitation”)](https://www.uky.edu/regs/sites/www.uky.edu.regs/files/files/ar/ar6-2_final_0682018_08-01-18_corrections.pdf). Complaints regarding violations of University policies on discrimination, harassment, and sexual misconduct are handled by the Office of Institutional Equity and Equal Opportunity (IEEO), which is located in 13 Main Building and can be reached by phone at (859) 257-8927. You can also visit [the IEEO’s website](https://www.uky.edu/eeo/).
+
+Faculty members are obligated to forward any report made by a student related to IEEO matters to the Office of Institutional Equity and Equal Opportunity. Students can confidentially report alleged incidences through the Violence Intervention and Prevention Center, Counseling Center, or University Health Services.
+
+## Bias Incident Support Services
+Bias Incident Support Services (BISS) provides confidential support and advocacy for any student, staff, or faculty member impacted by bias, hatred, and/or an act of identity-based violence.  BISS staff aid impacted parties in accessing campus and community resources, including the Bias Incident Response Team, the University’s official reporting system for acts that negatively impact a sense of belonging. Campus and community consultation and educational opportunities centered on inclusion, diversity, equity and belonging is a resource also provided by BISS. For more detailed information please visit the [BISS website](http://www.uky.edu/biss) or contact them [via email](mailto:biss@uky.edu).
+
+## Counseling Center
+The UK Counseling Center (UKCC) provides a range of confidential psychological services to students enrolled in 6 credit hours or more, psychoeducational outreach programming (including QPR suicide prevention), and consultation to members of the UK community (students, faculty, staff, administrators, parents, concerned others).  Please visit [their website](https://www.uky.edu/counselingcenter/) for more detailed information, or call 859.257.8701.
+
+## Martin Luther King Center
+The Martin Luther King Center (MLKC) supports an inclusive learning environment where diversity and individual differences are understood, respected, and appreciated as a source of strength. The MLKC’s year-round programs and activities that focus on the importance of cultural awareness and cross-cultural understanding support its three primary goals: 1) sponsoring cultural and educational programming; 2) offering opportunities for student support and development; and 3) through programmatic linkages with a wide variety of civic and community agencies, promoting community outreach, engagement, and collaboration.  Students can reach the MLKC via phone at (859) 257-4130, by visiting them in Gatton Student Center Suite A230, [via email](mailto:mlkc@uky.edu), and by visiting the [MLKC website](http://www.uky.edu/mlkc/).
+
+## Office of LGBTQ* Resources
+UK is committed to supporting students and upholding the University’s efforts to promote inclusion among our community. UK faculty and staff employees support inclusion and diversity throughout the University, including the ways in which faculty structure classroom conversations and manage those dynamics. To assist in these efforts, students are welcome to provide the names and pronouns they prefer. One easy way to do this is by using the pronoun feature of UK’s Name Change Form. (More information about the form can be found on the [Office of LGBTQ*’s website](http://www.uky.edu/lgbtq/forms-and-resources).) Otherwise, students can provide this information to faculty members directly.
+
+Discrimination based on sexual orientation, gender expression, and gender identity is prohibited at UK. If you have questions about support, advocacy, and community-building services related to sexual orientation, gender expression, or gender identity, students are encouraged to visit the website of the [Office of LGBTQ* Resources](http://www.uky.edu/lgbtq/forms-and-resources).
+
+## Veteran’s Resource Center
+Being both a member of the military community and a student can bring some complexities. If you are a member of the military or a military veteran or dependent, please let me know when these challenges arise. Drill schedules, calls to active duty, mandatory training exercises, issues with GI Bill disbursement, etc. can complicate your academic life. Please let me know if you experience complications and I will do my best to work with you.
+
+If you are a military student serving in the National Guard or Reserve it is in your best interest to let all of your professors know that immediately. You might also consider sharing a copy of your training schedule as well as any orders activating you. The Veterans Resource Center (VRC) can provide a letter for your professors validating your absence but be aware that there is no current UK policy protecting military students who miss class due to short term activations such as long weekend drills, annual training or emergency activations. See the instructor or the VRC for details.
+
+The VRC is a great resource for members of our military family. If you have questions regarding your VA benefits or other related issues, the VRC has a full complement of staff to assist you. The VRC also provides study and lounge space, as well as free printing. Please visit the [VRC website](mailto:http://www.uky.edu/veterans), [email the DRC](mailto:vetcenter@uky.edu), visit them in the basement of Erikson Hall, or call the director, Tony Dotson, at (859) 257-1148.
+
+## Violence Intervention and Prevention (VIP) Center
+If you experience an incident of sex- or gender-based discrimination or interpersonal violence, we encourage you to report it. While you may talk to a faculty member or TA/RA/GA, understand that as a "Responsible Employee" of the University these individuals MUST report any acts of violence (including verbal bullying and sexual harassment) to the University's Title IX Coordinator in the IEEO Office. If you would like to speak with someone who may be able to afford you confidentiality, you can visit the [Violence Intervention and Prevention (VIP) Center’s website](https://www.uky.edu/vipcenter/content/faq) (offices located in Frazee Hall, lower level; email them; or call (859) 257-3574), [the Counseling Center’s (CC) website](http://www.uky.edu/counselingcenter/student-resources) (106 Frazee Hall; (859) ), and the [University Health Services (UHS) website](https://ukhealthcare.uky.edu/university-health-service/student-health/our-student-services); the VIP Center, CC, and UHS are confidential resources on campus. **The VIP Center accepts walk-in appointments**.
+
 # Course Information
+
+## Meeting Schedule
+
+This course meets on Mondays, Wednesdays, and Fridays from 3:00pm to 3:50pm in 301 Lucille Little Library Bldg. Academic holidays are noted in the course schedule below.
 
 ## Course Description
 
@@ -38,32 +77,78 @@ The course focuses on the practice and theory of designing, building and maintai
 
 ## Prerequisites
 
-None
+There are no formal prerequisites for this course.
 
 ## Course Objectives—"I Can" Statements
 
-The following “I can” statements will serve as guiding objectives for this course. By the end of the semester, you should feel comfortable making each statement about yourself and be able to back up that statement with your performance on course activities and assessments.
+The following “I can” statements will serve as guiding objectives for this course and its assessments. By the end of the semester, you should feel comfortable making each statement about yourself and be able to back up that statement with your performance on course activities and assessments.
 
 - I can identify and define key concepts in (web) content management.
 - I can manage content using established workflows.
 - I can identify and employ technologies related to content management.
-- I can find and use resources for self-directed learning
+- I can find and use resources for self-directed learning.
 - I can describe and compare content management systems.
 
 ## Required Course Materials
 
-You are not required to buy a textbook for this class.
+You are not required to buy a textbook for this class; however, much of my lecturing will be inspired by *[Web Content Management: Systems, Features, and Best Practices](https://flyingsquirrelbook.com/)*. If you find the lectures helpful—and have the money to do so—I suggest you purchase the book during or after the semester.
 
-Over the course of the semester, however, you will be learning about a number of free resources that you can use to learn about content management systems, and you will work together as a class to use what you learn from those resources (and other course activities) to write a content management systems guidebook that you can use as a reminder and reference after the semester has ended.
+Over the course of the semester, you will be learning about a number of free resources that you can use to learn about content management systems.
+
+Furthermore, you will work together as a class to use what you learn from those resources (and other course activities) to write a content management systems guidebook that you can use as a reminder and reference after the semester has ended.
+
+## Course Policies
+
+### Adjusting the Syllabus
+
+This course is highly collaborative and flexible, and the "master" syllabus for the course is stored in GitHub, a technology built around collaborative work. As a class, we should all feel free to suggest changes to the syllabus that will better help us meet the course objectives listed above. However, the syllabus will not be changed willy-nilly or without broad support from all of us in ICT 302. This policy gives you extra freedom to suggest changes to the course; however, that freedom also comes with the responsibility to reflect on the course objectives and your achievement of them.
+
+### Technology Information and Requirements
+
+#### Technology Requirements
+
+Minimum technical requirements for UK courses and suggested hardware, software, and internet connections are available at [ITS Student Hardware & Software Guidelines](http://www.uky.edu/its/student-hardware-software-guidelines).
+
+This class is highly focused and dependent on a number of Web technologies, and you are expected to bring a laptop or tablet to class that will permit you to fully participate in class activities.
+
+#### Technology Use in Class
+
+Having a laptop or tablet in class naturally creates opportunities for distraction. I get it. I read a lot of webcomics in class during my undergraduate **and** graduate studies, so in most cases, I'm not interested in policing what you do on your computers. That said, navigating distraction in a tech-heavy world is an increasingly important skill, so you owe it to yourself (and to your classmates) to think hard about distractions in class.
+
+#### Technical Support
+
+For account help, contact UK’s [Information Technology Customer Services](http://www.uky.edu/UKIT) online, by [email](mailto:218help@uky.edu), or by phone at 859-218-HELP (4357).
+
+### Excused Absences (Senate Rules 5.2.4.2)
+Senate Rules 5.2.4.2 defines the following as acceptable reasons for excused absences: (a) significant illness, (b) death of a family member, (c) trips for members of student organizations sponsored by an educational unit, trips for University classes, and trips for participation in intercollegiate athletic events, (d) major religious holidays, (e) interviews for graduate/professional school or full-time employment post-graduation, and (f) other circumstances found to fit “reasonable cause for nonattendance” by the instructor of record. Students should notify the professor of absences prior to class when possible.
+
+If a course syllabus requires specific interactions (e.g., with the instructor or other students), in situations where a student’s total EXCUSED absences exceed 1/5 (or 20%) of the required interactions for the course, the student shall have the right to request and receive a "W," or the Instructor of Record may award an “I” for the course if the student declines a “W.” (Senate Rules 5.2.4.2.1)
+
+(If an attendance/interaction policy is not stated in the course syllabus or the policy does not include a penalty to the student, the Instructor cannot penalize the student for any unexcused absences.)
+
+### Verification of Absences (Senate Rules 5.2.4.2.A, B, C, and E)
+Students may be asked to verify their absences in order for them to be considered excused. Senate Rule 5.2.4.2 states that faculty have the right to request appropriate verification when students claim an excused absence due to: significant illness; death in the household, trips for classes, trips sponsored by an educational unit and trips for participation related to intercollegiate athletic events; and interviews for full-time job opportunities after graduation and interviews for graduate and professional school. (Appropriate notification of absences due to University-related trips is required prior to the absence when feasible and in no case more than one week after the absence.)
+
+### Religious Observances (Senate Rules 5.2.4.2.D)
+Students anticipating an absence for a major religious holiday are responsible for notifying the instructor in writing of anticipated absences due to their observance of such holidays. Please check the course syllabus for the notification requirement. If no requirement is specified, two weeks prior to the absence is reasonable and should not be given any later. Information regarding major religious holidays may be obtained through the [Ombud](https://www.uky.edu/ombud/religious-observation-accommodations)’s website or calling 859-257-3737.
+
+### Make-Up Work (Senate Rule 5.2.4.2)
+Students missing any graded work due to an excused absence are responsible: for informing the Instructor of Record about their excused absence within one week following the period of the excused absence (except where prior notification is required); and for making up the missed work. The instructor must give the student an opportunity to make up the work and/or the exams missed due to the excused absence, and shall do so, if feasible, during the semester in which the absence occurred. The instructor shall provide the student with an opportunity to make up the graded work and may not simply calculate the student's grade on the basis of the other course requirements, unless the student agrees in writing.
+
+### Children in Class
+
+All breastfeeding babies are welcome in class as often as necessary. Non-nursing babies and older children are welcome whenever alternate arrangements cannot be made. I want all students—including students who are parents—to feel welcomed and be supported, and I expect all students to join me in these efforts.
+
+(Thank you to [Dr. Christopher C. Jones](https://christophercjones.com/), whose [tweet](https://twitter.com/ccjones13/status/1107698161789747200) inspired my adoption of this policy.)
 
 # Course Assessments
 
 ## Assessment Scale
-- A: 90 - 100
-- B: 80 - 89.99
-- C: 70 - 79.99
-- D: 60 - 69.99
-- E: 0 - 59.99
+- A: 90 - 100 points
+- B: 80 - 89.99 points
+- C: 70 - 79.99 points
+- D: 60 - 69.99 points
+- E: 0 - 59.99 points
 
 I do not "round up" grades at the end of the semester. I know that can be frustrating for someone who is "almost there," but all rounding really does is move the "almost there" zone down by half a point, potentially creating another group of students who are frustrated that they just barely missed the mark. If you are concerned about potentially being right on the edge of a grading category at the end of the semester, the best thing to do is to talk to me about your concerns as early as possible (and certainly not after the fact) so that we can make sure that you wind up where you want to be!
 
@@ -86,19 +171,43 @@ Your final grade for this class is based on 100 points, which you will earn by c
 	- Content Management System Comparison (2 points)
 	- Modeling, Aggregation, and Presentation Comparison (2 points)
 
+## Midterm Grades for Undergraduate Students (Senate Rules 6.1.3.A)
+Mid-term grades will be posted in myUK by the deadline established in the [Academic Calendar](http://www.uky.edu/registrar/content/academic-calendar).
 
+## Assessment Policies
 
-## Assessment Submission Policies
+### Submission Policies
 
-All assessments will be submitted through Canvas; however, the details of **what** will be submitted varies from assessment to assessment. This includes the possibility that you will need to submit multiple documents for a single assessment. Please pay close attention to the *Assessment Details* section so that you know what you need to submit for a particular submission.
+All assessments will be submitted through Canvas; however, the details of **what** will be submitted varies from assessment to assessment. Please pay close attention to the *Assessment Details* section so that you know what you need to submit for a particular submission.
 
 Officially, assessments are due at 11:59pm on the date listed in the syllabus below. Practically speaking, however, I will grade without penalty any assessment that is turned in by the time I begin looking over that assessment. However, I will not grade or provide feedback on any work that is completed after this time unless you have made other arrangements with me. Naturally, because my schedule varies from week to week and because I try to provide feedback as quickly as possible, your best bet is to turn in your work by the official deadline or—if life has thrown you a curveball—to get in touch with me ahead of time to make other arrangements.
+
+### Academic Integrity– Prohibition on Plagiarism (Senate Rules 6.3.1)
+Per University policy, students shall not plagiarize, cheat, or falsify or misuse academic records. Students are expected to adhere to University policy on cheating and plagiarism in all courses. The minimum penalty for a first offense is a zero on the assignment on which the offense occurred. If the offense is considered severe or the student has other academic offenses on their record, more serious penalties, up to suspension from the University may be imposed.
+
+Plagiarism and cheating are serious breaches of academic conduct. Each student is advised to become familiar with the various forms of academic dishonesty as explained in the [Code of Student Rights and Responsibilities](http://www.uky.edu/deanofstudents/student-rights-and-responsibilities). Complete information can be found on the [Academic Ombud](http://www.uky.edu/Ombud) page. A plea of ignorance is not acceptable as a defense against the charge of academic dishonesty. It is important that you review this information as all ideas borrowed from others need to be properly credited.
+
+Senate Rule 6.3.1 (see current [Senate Rules](http://www.uky.edu/Faculty/Senate/)) states that all academic work, written or otherwise, submitted by students to their instructors or other academic supervisors, is expected to be the result of their own thought, research, or self-expression. In cases where students feel unsure about a question of plagiarism involving their work, they are obliged to consult their instructors on the matter before submission.
+
+When students submit work purporting to be their own, but which in any way borrows ideas, organization, wording, or content from another source without appropriate acknowledgment of the fact, the students are guilty of plagiarism.
+
+Plagiarism includes reproducing someone else's work (including, but not limited to a published article, a book, a website, computer code, or a paper from a friend) without clear attribution. Plagiarism also includes the practice of employing or allowing another person to alter or revise the work, which a student submits as his/her own, whoever that other person may be. Students may discuss assignments among themselves or with an instructor or tutor, but when the actual work is done, it must be done by the student, and the student alone.
+
+When a student's assignment involves research in outside sources or information, the student must carefully acknowledge exactly what, where and how he/she has employed them. If the words of someone else are used, the student must put quotation marks around the passage in question and add an appropriate indication of its origin. Making simple changes while leaving the organization, content, and phraseology intact is plagiaristic. However, nothing in these Rules shall apply to those ideas, which are so generally and freely circulated as to be a part of the public domain.
+
+Please note: According to university policy, any assignment you turn in may be submitted to an electronic database to check for plagiarism. However, I will never do so and invite you, as ICT students, to consider [some of the critiques](http://hybridpedagogy.org/resisting-edtech/) that have been made about plagiarism-checking software.
+
+## Academic Integrity – Prohibition on Cheating (Senate Rules 6.3.2)
+Cheating is defined by its general usage. It includes, but is not limited to, the wrongfully giving, taking, or presenting any information or material by a student with the intent of aiding himself/herself or another on any academic work which is considered in any way in the determination of the final grade. The fact that a student could not have benefited from an action is not by itself proof that the action does not constitute cheating. Any question of definition shall be referred to the University Appeals Board.
+
+## Academic Integrity – Prohibition on Falsification/Misuse of Academic Records (SR 6.3.3)
+Maintaining the integrity, accuracy, and appropriate privacy of student academic records is an essential administrative function of the University and a basic protection of all students. Accordingly, the actual or attempted falsification, theft, misrepresentation or other alteration or misuse of any official academic record of the University, specifically including knowingly having unauthorized access to such records or the unauthorized disclosure of information contained in such records, is a serious academic offense. As used in this context, "academic record" includes all paper and electronic versions of the partial or complete permanent academic record, all official and unofficial academic transcripts, application documents and admission credentials, and all academic record transaction documents. The minimum sanction for falsification, including the omission of information, or attempted falsification or other misuse of academic records as described in this section is suspension for one semester.
 
 ## Assessment Details
 
 ### Self-Evaluation (40 points; due 15 December 2019)
 
-At the end of the semester, you will evaluate your own learning and performance in the class—including your contributions to the CMS Guidebook (see below). You will download [the Markdown template](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/self-evaluation_template.md) in the [assessments folder](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/) of my class repository, copy the template, and follow the prompts to evaluate your performance in the class. You will then add the Markdown file to your personal GitHub repository and link to the file as a Canvas submission. In most cases, the grade you give yourself is the grade you will receive; however, if there are clear abuses of the privilege of self-assessment, I will adjust your grade to one that is more appropriate.
+At the end of the semester, you will evaluate your own learning and performance in the class—including your contributions to the CMS Guidebook (see below). You will download [the Markdown template](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/self-evaluation_template.md) in the [assessments folder](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/) of my class repository, copy the template to your own GitHub repository, and follow the prompts to evaluate your performance in the class. You will then link to the file as a Canvas submission. In most cases, the grade you give yourself is the grade you will receive; however, if there are clear abuses of the privilege of self-assessment, I will adjust your grade to one that is more appropriate.
 
 ### CMS Guidebook Assessments
 
@@ -114,7 +223,7 @@ Expectations change over the course of the semester, so you will have a chance t
 
 #### Colleague Evaluation (8 points; due 15 December 2019)
 
-At the end of the semester, a colleague whom you have identified in your Written Agreement will evaluate your contributions to the CMS Guidebook, using the terms set out in your Written Agreement as a guide. They will download your Written Agreement from the [Written Agreements folder](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/CMS%20Guidebook%20Assessments/Written%20Agreements) and make a copy of the document. Under your comments in the **How Will It Be Evaluated?** section, they will give you a score out of eight, using specific evidence from your contributions to the CMS Guidebook and its workflows and specific passages from your Written Agreement to justify that score. They will add that file to their personal GitHub repository and email me a link to the file (and any other evaluations) at [spencer.greenhalgh@uky.edu](mailto:spencer.greenhalgh@uky.edu). In most cases, the grade they give you is the grade you will receive; however, if there are clear abuses of the important process of peer-assessment, I will adjust your grade to one that is more appropriate.
+At the end of the semester, a colleague whom you have identified in your Written Agreement will evaluate your contributions to the CMS Guidebook, using the terms set out in your Written Agreement as a guide. They will download your Written Agreement from the [Written Agreements folder](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/CMS%20Guidebook%20Assessments/Written%20Agreements) and make a copy of the document. Under your comments in the *How Will It Be Evaluated?* section, they will give you a score out of eight, using specific evidence from your contributions to the CMS Guidebook and its workflows and specific passages from your Written Agreement to justify that score. They will add that file to their personal GitHub repository and email me a link to the file (and any other evaluations) at [spencer.greenhalgh@uky.edu](mailto:spencer.greenhalgh@uky.edu). In most cases, the grade they give you is the grade you will receive; however, if there are clear abuses of the important process of peer-assessment, I will adjust your grade to one that is more appropriate.
 
 #### Dr. Greenhalgh Evaluation (6 points; completed after 15 December 2019)
 
@@ -142,15 +251,15 @@ Use GitHub Pages to create a simple web page that introduces you to the rest of 
 
 #### Hugo Tinkering Report (2 points; due 29 September 2019)
 
-Copy [the Markdown template](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/Proofs%20of%20Concept/Hugo_Tinkering_Report_template.md) in the [Proofs of Concept](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/Proofs%20of%20Concept/) of my class repository and add it to your personal repository. Follow the prompts in the template to describe your experience tinkering with Hugo and how it helped you connect with the class concepts that we've discussed so far. Link to the page as a Canvas submission. You will be graded according to the guidelines in the template.
+Copy [the Markdown template](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/Proofs%20of%20Concept/Hugo_Tinkering_Report_template.md) in the [Proofs of Concept](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/Proofs%20of%20Concept/) folder of my class repository and add it to your personal repository. Follow the prompts in the template to describe your experience tinkering with Hugo and how it helped you connect with the class concepts that we've discussed so far. Link to the page as a Canvas submission. You will be graded according to the guidelines in the template.
 
 #### Content Management System Comparison (2 points; due 20 October 2019)
 
-Using guidelines presented in class, identify and explore a content management system other than Hugo and WordPress. This exploration should be as detailed as possible, including setting up a free, trial, or local version of the CMS and tinkering with content and presentation. Then, copy [the Markdown template](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/Proofs%20of%20Concept/Content_Management_System_Comparison_template.md) in the [Proofs of Concept](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/Proofs%20of%20Concept/) of my class repository and add it to your personal repository. Follow the prompts in the template to compare Hugo, WordPress, and the CMS that you have chosen, using concepts and terms that we've discussed in class. Link to the page as a Canvas submission. You will be graded according to the guidelines in the template.
+Using guidelines presented in class, identify and explore a content management system other than Hugo and WordPress. This exploration should be as detailed as possible, including setting up a free, trial, or local version of the CMS and tinkering with content and presentation. Then, copy [the Markdown template](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/Proofs%20of%20Concept/Content_Management_System_Comparison_template.md) in the [Proofs of Concept](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/Proofs%20of%20Concept/) folder of my class repository and add it to your personal repository. Follow the prompts in the template to compare Hugo, WordPress, and the CMS that you have chosen, using concepts and terms that we've discussed in class. Link to the page as a Canvas submission. You will be graded according to the guidelines in the template.
 
 #### Modeling, Aggregation, and Presentation Comparison (2 points; due 10 November 2019)
 
-Using guidelines presented in class, identify and explore three different websites that you believe use the same CMS. This exploration should be as detailed as possible, exploring as much content as you can. Then, copy [the Markdown template](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/Proofs%20of%20Concept/Modeling_Aggregation_Presentation_Comparison_template.md) in the [Proofs of Concept](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/Proofs%20of%20Concept/) of my class repository and add it to your personal repository. Follow the prompts in the template to compare the three websites that you have chosen, using concepts and terms that we've discussed in class. Link to the page as a Canvas submission. You will be graded according to the guidelines in the template.
+Using guidelines presented in class, identify and explore three different websites that you believe use the same CMS. This exploration should be as detailed as possible, exploring as much content as you can. Then, copy [the Markdown template](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/Proofs%20of%20Concept/Modeling_Aggregation_Presentation_Comparison_template.md) in the [Proofs of Concept](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/Proofs%20of%20Concept/) folder of my class repository and add it to your personal repository. Follow the prompts in the template to compare the three websites that you have chosen, using concepts and terms that we've discussed in class. Link to the page as a Canvas submission. You will be graded according to the guidelines in the template.
 
 # Course Schedule
 
@@ -250,6 +359,8 @@ Using guidelines presented in class, identify and explore three different websit
 
 ### Friday, 20 September (Create):
 - use [class Hugo website](https://unruffled-kepler-b32175.netlify.com/) to start laying out the **content** of the *CMS Guidebook*
+- continue organizing class into a content management team
+- continue organizing class workflows
 
 ### Sunday, 22 September (Submit):
 - submit Learning Journal entries
@@ -265,6 +376,8 @@ Using guidelines presented in class, identify and explore three different websit
 
 ### Friday, 27 September (Create):
 - use [class Hugo website](https://unruffled-kepler-b32175.netlify.com/) to start laying out the **content** and **presentation** of the *CMS Guidebook*
+- continue organizing class into a content management team
+- continue organizing class workflows
 
 ### Sunday, 29 September (Submit):
 
@@ -274,7 +387,7 @@ Using guidelines presented in class, identify and explore three different websit
 ## Week 6: WordPress
 
 ### Monday, 30 September (Learn):
-- **before class**, read the [Introduction](https://easywpguide.com/wordpress-manual/introduction/) to the EasyWPGuide and visit the examples they link to
+- **before class**, read the [Introduction](https://easywpguide.com/wordpress-manual/introduction/) to the EasyWPGuide and visit the examples it links to
 - **before class**, watch the [How to Start a Blog in 2019 (Step by Step)](https://www.youtube.com/watch?time_continue=5&v=hCxIyl3vkLU) from [wpbeginner](https://www.wpbeginner.com)
 - attend lecture about WordPress
 
@@ -285,7 +398,8 @@ Using guidelines presented in class, identify and explore three different websit
 
 ### Friday, 4 October (Create):
 - migrate CMS Guidebook content from [class Hugo website](https://unruffled-kepler-b32175.netlify.com/) to [class WordPress website](https://sised.is.uky.edu/ict302wp/)
-- develop class workflows for *CMS Guidebook*
+- continue organizing class into a content management team
+- continue organizing class workflows
 
 ### Sunday, 6 October (Submit):
 - submit Learning Journal entries
@@ -305,8 +419,8 @@ Using guidelines presented in class, identify and explore three different websit
 
 ### Friday, 11 October (Create):
 - continue work on *CMS Guidebook*
-- develop class workflows for *CMS Guidebook*
-- work on *Content Management System Comparison* Proof of Concept
+- continue organizing class into a content management team
+- continue organizing class workflows
 
 ### Sunday, 13 October (Submit):
 - submit Learning Journal entries
@@ -321,7 +435,9 @@ Using guidelines presented in class, identify and explore three different websit
 
 ### Friday, 18 October (Create):
 - continue work on *CMS Guidebook*
-- finalize class workflows for *CMS Guidebook*
+- finalize organization of class into a content management team
+- finalize organization of class workflows
+- work on *Mid-Semester Written Agreement*
 - work on *Content Management System Comparison* Proof of Concept
 
 ### Sunday, 20 October (Submit):
@@ -349,7 +465,7 @@ Using guidelines presented in class, identify and explore three different websit
 ### Wednesday, 30 October (Explore):
 - explore WordPress templates
 ### Friday, 1 November (Create):
-- work on CMS Guidebook
+- continue work on *CMS Guidebook*
 ### Sunday, 3 November (Submit):
 
 - submit Learning Journal entries
@@ -357,6 +473,10 @@ Using guidelines presented in class, identify and explore three different websit
 ## Week 11: Content Aggregation
 
 ### Monday, 4 November (Learn):
+- **before class**, read the [Aggregation](https://flyingsquirrelbook.com/glossary/term/aggregation/) entry in the Flying Squirrel CMS Glossary
+- **before class**, read the [Content Tree](https://flyingsquirrelbook.com/glossary/term/content-tree/) entry in the Flying Squirrel CMS Glossary
+- **before class**, read the [Content Geography](https://flyingsquirrelbook.com/glossary/term/content-geography/) entry in the Flying Squirrel CMS Glossary
+- **before class**, read the [Category](https://flyingsquirrelbook.com/glossary/term/category/) entry in the Flying Squirrel CMS Glossary
 - attend lecture on content aggregation
 ### Tuesday, 5 November (Vote):
 - If you are eligible to vote in Kentucky, please make sure to participate in state elections today!
@@ -365,7 +485,7 @@ Using guidelines presented in class, identify and explore three different websit
 - explore categories, tags, menus in WordPress
 
 ### Friday, 8 November (Create):
-- work on CMS Guidebook
+- continue work on *CMS Guidebook*
 
 ### Sunday, 10 November (Submit):
 
@@ -378,9 +498,10 @@ Using guidelines presented in class, identify and explore three different websit
 - attend lecture on extending Content Management Systems
 ### Wednesday, 13 November (Explore):
 - explore WordPress plugins
-- find a plugin (or other solution) for producing a PDF version of the CMS Guidebook
+- find a plugin for producing a PDF version of the CMS Guidebook
 ### Friday, 15 November (Create):
-- work on CMS Guidebook
+- continue work on *CMS Guidebook*
+- add PDF plugin to [class WordPress website](https://sised.is.uky.edu/ict302wp/)
 ### Sunday, 17 November (Submit):
 - submit Learning Journal entries
 
@@ -391,9 +512,9 @@ Using guidelines presented in class, identify and explore three different websit
 ### Wednesday, 20 November (Explore):
 - explore eCommerce plugins for the [class WordPress website](https://sised.is.uky.edu/ict302wp/)
 ### Friday, 22 November (Create):
-- work on CMS Guidebook
+- continue work on *CMS Guidebook*
+- add eCommerce functionality to [class WordPress website](https://sised.is.uky.edu/ict302wp/)
 ### Sunday, 24 November (Submit):
-
 - submit Learning Journal entries
 
 ## Week 14: Check-In
@@ -415,20 +536,19 @@ Using guidelines presented in class, identify and explore three different websit
 ### Wednesday, 4 December (Explore):
 - explore RSS, comments, and social media on WordPress
 ### Friday, 6 December (Create):
-- work on CMS Guidebook
+- continue work on *CMS Guidebook*
 ### Sunday, 8 December (Submit):
 
 - submit Learning Journal entries
 
 ## Week 16: Work Week
 
-### Monday, 9 December:
-- work on the CMS Guidebook
+- continue work on *CMS Guidebook*
 ### Wednesday, 11 December (Explore):
-- work on the CMS Guidebook
+- continue work on *CMS Guidebook*
 ### Friday, 13 December (Create):
 - **Deleting Day**
-- complete CMS Guidebook
+- complete on *CMS Guidebook*
 
 ### Sunday, 15 December (Submit):
 - submit Learning Journal entries
