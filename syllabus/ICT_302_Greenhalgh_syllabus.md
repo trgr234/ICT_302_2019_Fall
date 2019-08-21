@@ -87,12 +87,7 @@ The following “I can” statements will serve as guiding objectives for this c
 - I can describe and compare content management systems.
 - I can manage content using established workflows.
 - I can identify and employ technologies related to content management.
-<<<<<<< HEAD
-- I can find and use resources for self-directed learning
-=======
 - I can find and use resources for self-directed learning.
-- I can describe and compare content management systems.
->>>>>>> parent of 28ca5c2... fix typos
 
 ## Required Course Materials
 
