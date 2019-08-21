@@ -271,11 +271,14 @@ Using guidelines presented in class, identify and explore three different websit
 ### Wednesday, 28 August (Explore)
 - learn about [GitHub](https://github.com/)
 - set up [GitHub Desktop](https://desktop.github.com/)
+- watch and star [ICT 302 repository](https://github.com/greenhas/ICT_302_2019_Fall)
+- introduce *Learning Journal Setup* Proof of Concept
+- set up personal ICT 302 repository
 - learn about [Atom text editor](https://atom.io/)
 - learn about markup languages
 - learn about [Markdown](https://daringfireball.net/projects/markdown/)
-- set up personal ICT 302 repository
-- introduce *Learning Journal Setup* Proof of Concept
+
+
 
 ### Friday, 30 August (Create):
 - **Last Day to Add**
