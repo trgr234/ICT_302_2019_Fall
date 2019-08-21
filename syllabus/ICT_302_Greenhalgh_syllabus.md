@@ -45,10 +45,10 @@ None.
 The following “I can” statements will serve as guiding objectives for this course. By the end of the semester, you should feel comfortable making each statement about yourself and be able to back up that statement with your performance on course activities and assessments.
 
 - I can identify and define key concepts in (web) content management.
+- I can describe and compare content management systems.
 - I can manage content using established workflows.
 - I can identify and employ technologies related to content management.
 - I can find and use resources for self-directed learning
-- I can describe and compare content management systems.
 
 ## Required Course Materials
 
