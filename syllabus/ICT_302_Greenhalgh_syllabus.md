@@ -279,6 +279,7 @@ Using guidelines presented in class, identify and explore three different websit
 - watch and star ICT 302 GitHub [ICT 302 repository](https://github.com/greenhas/ICT_302_2019_Fall)
 - set up [GitHub Desktop](https://desktop.github.com/)
 - set up personal repository
+	- go to [syllabus](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/syllabus/ICT_302_Greenhalgh_syllabus.md) and review *Learning Journal Setup* Proof of Concept
 - modify personal repository's README file with [Atom text editor](https://atom.io/)
 	- learn about markup languages
 	- learn about [Markdown](https://daringfireball.net/projects/markdown/)
@@ -287,10 +288,11 @@ Using guidelines presented in class, identify and explore three different websit
 
 ### Friday, 30 August (Create):
 - **Last Day to Add**
-- review ICT 302 syllabus
-- clone ICT 302 syllabus in GitHub Desktop
-- use `issues` and `pull requests` to ask questions about or suggest changes to the ICT 302 syllabus
-
+- Canvas susbmission walkthrough
+- discuss `issues` and `pull requests`
+	- - look at [Data Science in Education Using R](https://github.com/data-edu/data-science-in-education) repository
+- discuss class syllabus and Markdown
+- review class syllabus with GitHub
 
 ### Sunday, 1 September (Submit):
 
