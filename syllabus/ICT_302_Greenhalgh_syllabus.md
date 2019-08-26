@@ -301,11 +301,11 @@ Using guidelines presented in class, identify and explore three different websit
 
 ## Week 2: Content
 
-### Monday, 2 September (Learn):
+### Monday, 2 September:
 - **Academic Holiday: No Class**
-### Wednesday, 4 September (Explore):
-- **before class**, read the [Content](https://flyingsquirrelbook.com/glossary/term/content/) entry in the Flying Squirrel CMS Glossary.
-- **before class**, read the [Content (media)](https://en.wikipedia.org/wiki/Content_(media)) entry on Wikipedia.
+### Wednesday, 4 September (Learn/Explore):
+- **before class**, read the [Content](https://flyingsquirrelbook.com/glossary/term/content/) entry in the Flying Squirrel CMS Glossary
+- **before class**, read the [Content (media)](https://en.wikipedia.org/wiki/Content_(media)) entry on Wikipedia
 - attend lecture on content
 - learn about [GitHub Pages](https://pages.github.com/)
 - learn about HTML

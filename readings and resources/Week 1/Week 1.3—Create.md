@@ -4,6 +4,8 @@
 
 - **Last Day to Add**
 - *Learning Journal Setup* due on Sunday!
+- no class on Monday
+- readings for Wednesday!
 
 ## Canvas submission walkthrough [15:00 to 15:05]
 
