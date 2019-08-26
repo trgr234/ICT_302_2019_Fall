@@ -267,16 +267,21 @@ Using guidelines presented in class, identify and explore three different websit
 
 ### Monday, 26 August (Learn)
 - attend lecture on ICT 302 course philosophy
+	- Who is Dr. Greenhalgh?
+	- What is Learning?
+	- Course Objectives
+	- Weekly Review
+	- Ask Me Anything!
 
 ### Wednesday, 28 August (Explore)
-- learn about [GitHub](https://github.com/)
+- what is [GitHub](https://github.com/)?
+- set up GitHub account
+- watch and star ICT 302 GitHub [ICT 302 repository](https://github.com/greenhas/ICT_302_2019_Fall)
 - set up [GitHub Desktop](https://desktop.github.com/)
-- watch and star [ICT 302 repository](https://github.com/greenhas/ICT_302_2019_Fall)
-- introduce *Learning Journal Setup* Proof of Concept
-- set up personal ICT 302 repository
-- learn about [Atom text editor](https://atom.io/)
-- learn about markup languages
-- learn about [Markdown](https://daringfireball.net/projects/markdown/)
+- set up personal repository
+- modify personal repository's README file with [Atom text editor](https://atom.io/)
+	- learn about markup languages
+	- learn about [Markdown](https://daringfireball.net/projects/markdown/)
 
 
 

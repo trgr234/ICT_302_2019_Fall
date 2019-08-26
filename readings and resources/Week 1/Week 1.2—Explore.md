@@ -28,7 +28,7 @@
 
 - go to [syllabus](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/syllabus/ICT_302_Greenhalgh_syllabus.md) and review *Learning Journal Setup* Proof of Concept
 - go back to GitHub and walk through setting up a personal repository and adding me
-- go to GitHub Desktop and clone the repository from GitHub; have them make sure that a README is in there
+- go to GitHub Desktop and clone the repository from GitHub; make sure that a README is in there
 
 ## modify repository's README file with Atom (15:32 - 15:50)
 
