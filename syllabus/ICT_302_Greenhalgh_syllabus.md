@@ -280,15 +280,18 @@ Using guidelines presented in class, identify and explore three different websit
 - set up [GitHub Desktop](https://desktop.github.com/)
 - set up personal repository
 	- go to [syllabus](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/syllabus/ICT_302_Greenhalgh_syllabus.md) and review *Learning Journal Setup* Proof of Concept
-- modify personal repository's README file with [Atom text editor](https://atom.io/)
-	- learn about markup languages
-	- learn about [Markdown](https://daringfireball.net/projects/markdown/)
-
+- Canvas susbmission walkthrough
+- learn about markup languages
 
 
 ### Friday, 30 August (Create):
 - **Last Day to Add**
-- Canvas susbmission walkthrough
+- **before class**, set up [GitHub Desktop](https://desktop.github.com/)
+- **before class**, set up [Atom text editor](https://atom.io/)
+- **before class**, read the [Daring Fireball Markdown syntax guide](https://daringfireball.net/projects/markdown/syntax)
+- **before class**, read the [GitHub Markdown guide](https://guides.github.com/features/mastering-markdown/)
+- modify personal repository's README file with [Atom text editor](https://atom.io/)
+	- learn about [Markdown](https://daringfireball.net/projects/markdown/)
 - discuss `issues` and `pull requests`
 	- - look at [Data Science in Education Using R](https://github.com/data-edu/data-science-in-education) repository
 - discuss class syllabus and Markdown
