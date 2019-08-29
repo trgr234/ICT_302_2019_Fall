@@ -27,6 +27,7 @@
 ## set up personal repository (15:25 - 15:32)
 
 - go to [syllabus](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/syllabus/ICT_302_Greenhalgh_syllabus.md) and review *Learning Journal Setup* Proof of Concept
+- go to [Canvas](https://uk.instructure.com/courses/1955112/) and review assignment submission
 - go back to GitHub and walk through setting up a personal repository and adding me
 - go to GitHub Desktop and clone the repository from GitHub; make sure that a README is in there
 
